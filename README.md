@@ -6,3 +6,5 @@ In this analysis, we first scrape the information of one of the high selling pro
 3. In the last file, that is, `Exploratory Analysis` file we analyse the data.
 
 So to understand the complete project, it is recommended to start from the first file and go step by step. Rest all the details are mentioned in the markdown cells after every step in the complete process.
+
+• Please do ⭐ the repository, if it helped you in anyway.
